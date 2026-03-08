@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi 👋 I'm Aashish Rathod
 
-<!--
-**aashishrathod17/aashishrathod17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Web Developer  
+🎓 BSc IT Student  
+📍 Gujarat, India  
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
+HTML  
+CSS  
+JavaScript  
+PHP  
+Laravel  
+SQL  
+java(basic)
+python(basic)
+C language
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect With Me
+GitHub: https://github.com/aashishrathod17
+linkidn: www.linkedin.com/in/aashish-rathod-5665b03a7
